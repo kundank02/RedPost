@@ -1,4 +1,4 @@
-# RedPost [Demo] (https://redpost-k02.netlify.app/)
+# RedPost [Demo](https://redpost-k02.netlify.app/)
 
 # Project Description
 The RedPost is a comprehensive full-stack solution that leverages MongoDB, Express.js, React.js, and Node.js technologies. 
